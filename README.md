@@ -18,29 +18,33 @@
 <li>2017 - SEO and text optimization on Internet</li>
 <li>2016-2017 - FrontEnd development</li>
 </ul>
-<h2 dir="auto"> :hammer_and_wrench: Tools:</h2>
-<ul dir="auto">
-<li>Jira&nbsp;</li>
-<li>TestRail</li>
-<li>Git, GitHub</li>
-<li>Cucumber</li>
-<li>Selenium&nbsp;&nbsp;</li>
-<li>Octopus</li>
-<li>IntelliJ IDEA&nbsp;</li>
-<li>PyCharm&nbsp;</li>
-<li>VisualStudioCode&nbsp;</li>
-</ul>
-<h2 dir="auto">Tech skills</h2>
+<h2 dir="auto"> :hammer_and_wrench: Tech skills & Tools:</h2>
 <ul dir="auto">
 <li>Test Design</li>
 <li>Defects reporting</li>
-<li>Java</li>
-<li>Python</li>
-<li>Robot Framework</li>
-<li>JS</li>
-<li>HTML5/CSS3</li>
-<li>OOP</li>
+ <li>Test automation</li>
+<li>Jira&nbsp;</li>
+<li>TestRail</li>
+<li>GitLab, GitHub</li>
+  <li>Selenium</li>
+<li>Cucumber</li>
+  <li>Robot Framework</li>
+ <li>Figma</li>
+<li>Scrum/Agile</li>
+<li>IntelliJ IDEA&nbsp;</li>
+<li>PyCharm&nbsp;</li>
+ <li>VisualStudioCode&nbsp;</li>
 </ul>
+<h2 dir="auto">:black_nib: Languages</h2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+</div>
+
 <h2 dir="auto">:open_file_folder: Test Cases&nbsp;example</h2>
 <ul dir="ltr">
 <li><a href="https://docs.google.com/spreadsheets/d/13PWoo2yq2Xsuy5uwPlnktIr4v3sDgXGm2qHrPb2Xpb0/edit?usp=sharing" target="_blank" rel="nofollow noopener">Test Cases for Portfolio Challenge</a></li>
