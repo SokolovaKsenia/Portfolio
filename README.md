@@ -56,7 +56,7 @@
 <ul dir="ltr">
 <li><a href="https://docs.google.com/spreadsheets/d/1fAnJU4tP9TDLdQYaXZq8Q1p3gd0N7qvWk36WRZBDBI4/edit?usp=sharing" target="_blank" rel="nofollow noopener">Test Report &amp; Bug report for Portfolio Challenge</a></li>
 </ul>
-<h2 dir="auto">:pencil2: Projects</h2>
+<h2 dir="auto">:pencil2: My projects</h2>
 <ul dir="auto">
 <li><a href="https://github.com/SokolovaKsenia/Challenge_portfolio_pati" target="_blank" rel="noopener">Website testing on Python&nbsp;</a></li>
 <li><a href="https://github.com/SokolovaKsenia/Ksu_robotframework" target="_blank" rel="noopener">Robot Framework on&nbsp;Website testing</a>&nbsp;</li>
