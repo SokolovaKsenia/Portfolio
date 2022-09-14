@@ -57,6 +57,10 @@
 <ul dir="auto">
 <li><a href="https://github.com/SokolovaKsenia/Challenge_portfolio_pati" target="_blank" rel="noopener">Website testing on Python&nbsp;</a></li>
 <li><a href="https://github.com/SokolovaKsenia/Ksu_robotframework" target="_blank" rel="noopener">Robot Framework on&nbsp;Website testing</a>&nbsp;</li>
+<li><a href="https://github.com/SokolovaKsenia/Java-Exceptions" target="_blank" rel="noopener">Java Exceptions project</a>&nbsp;</li>
+<li><a href="https://github.com/SokolovaKsenia/Java-Aggregation" target="_blank" rel="noopener">Java Aggregation project</a>&nbsp;</li>
+
+
 </ul>
 <h2 dir="auto">:fire: My Stats: </h2>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=SokolovaKsenia&theme=dark&background=000000" width="300" alt=""/>
