@@ -43,6 +43,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+
+ 
 </div>
 
 <h2 dir="auto">:open_file_folder: Test Cases&nbsp;example</h2>
@@ -59,7 +62,7 @@
 <li><a href="https://github.com/SokolovaKsenia/Ksu_robotframework" target="_blank" rel="noopener">Robot Framework on&nbsp;Website testing</a>&nbsp;</li>
 <li><a href="https://github.com/SokolovaKsenia/Java-Exceptions" target="_blank" rel="noopener">Java Exceptions project</a>&nbsp;</li>
 <li><a href="https://github.com/SokolovaKsenia/Java-Aggregation" target="_blank" rel="noopener">Java Aggregation project</a>&nbsp;</li>
-
+<li><a href="https://github.com/SokolovaKsenia/Java-Inheritance">Java Inheritance project</a>&nbsp;</li>
 
 </ul>
 <h2 dir="auto">:fire: My Stats: </h2>
