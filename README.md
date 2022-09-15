@@ -51,11 +51,22 @@
 <h2 dir="auto">:open_file_folder: Test Cases&nbsp;example</h2>
 <ul dir="ltr">
 <li><a href="https://docs.google.com/spreadsheets/d/13PWoo2yq2Xsuy5uwPlnktIr4v3sDgXGm2qHrPb2Xpb0/edit?usp=sharing" target="_blank" rel="nofollow noopener">Test Cases for Portfolio Challenge</a></li>
+
 </ul>
 <h2 dir="auto">:bookmark_tabs: Test Report&amp;Bug Report example</h2>
 <ul dir="ltr">
 <li><a href="https://docs.google.com/spreadsheets/d/1fAnJU4tP9TDLdQYaXZq8Q1p3gd0N7qvWk36WRZBDBI4/edit?usp=sharing" target="_blank" rel="nofollow noopener">Test Report &amp; Bug report for Portfolio Challenge</a></li>
+<li><a href="https://drive.google.com/file/d/1UoANvw3v4NsjezpciWomX4iXt82adZ72/view?usp=sharing" target="_blank" rel="nofollow noopener">Bug report for Baryshivka council website </a></li>
 </ul>
+
+<h2 dir="auto">:bookmark_tabs: Other testing documentation</h2>
+<ul dir="ltr">
+<li><a href="https://drive.google.com/file/d/15bbBeu2Mqoon-uOKzygmAFjTEoBvrAMm/view?usp=sharing" target="_blank" rel="nofollow noopener">Test Plan - Online shop</a></li>
+<li><a href="https://drive.google.com/file/d/1a47CeK1FM67tCa2isBmeWwiG6_ytlZ4t/view?usp=sharing" target="_blank" rel="nofollow noopener">Checklist - testing Word app</a></li>
+<li><a href="https://drive.google.com/file/d/1t2LZ4IFllA-I3r3vqgFDLemslvfezn6I/view?usp=sharing"target="_blank" rel="nofollow noopener">Requirements testing</a></li>
+</ul>
+
+
 <h2 dir="auto">:pencil2: My projects</h2>
 <ul dir="auto">
 <li><a href="https://github.com/SokolovaKsenia/Challenge_portfolio_pati" target="_blank" rel="noopener">Website testing on Python&nbsp;</a></li>
