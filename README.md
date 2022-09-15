@@ -59,7 +59,7 @@
 <li><a href="https://drive.google.com/file/d/1UoANvw3v4NsjezpciWomX4iXt82adZ72/view?usp=sharing" target="_blank" rel="nofollow noopener">Bug report for Baryshivka council website </a></li>
 </ul>
 
-<h2 dir="auto">:bookmark_tabs: Other testing documentation</h2>
+<h2 dir="auto">:books:: Other testing documentation</h2>
 <ul dir="ltr">
 <li><a href="https://drive.google.com/file/d/15bbBeu2Mqoon-uOKzygmAFjTEoBvrAMm/view?usp=sharing" target="_blank" rel="nofollow noopener">Test Plan - Online shop</a></li>
 <li><a href="https://drive.google.com/file/d/1a47CeK1FM67tCa2isBmeWwiG6_ytlZ4t/view?usp=sharing" target="_blank" rel="nofollow noopener">Checklist - testing Word app</a></li>
