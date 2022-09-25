@@ -83,7 +83,7 @@
 
 <h2 dir="auto">:mailbox: How to reach me</h2>
 <div id="badges">
-  <a href="(https://www.linkedin.com/in/kseniia-sokolova-ks)">
+  <a href="https://www.linkedin.com/in/kseniia-sokolova-ks">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <a href="mailto:ksenabox@gmail.com">
